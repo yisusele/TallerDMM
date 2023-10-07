@@ -1,0 +1,1200 @@
+fileFormatVersion: 2
+guid: eda446131f20eaf419d7c5837e2a34af
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_0"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3708
+        width: 367
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0cefab11efb6548a5035afe6ef6472
+      internalID: 567831026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_1"
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 3708
+        width: 398
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426dc198580d2cb4dacbe75a3d3d4fe8
+      internalID: 1621850019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_2"
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 3661
+        width: 402
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82afccabbb1c4924b83239ea95bc45cf
+      internalID: 853271349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_3"
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 3668
+        width: 404
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9f8d465923b0b4aa036fecd6b4cbf9
+      internalID: 811008588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_5"
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 3671
+        width: 404
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9c8bf8740be0a4bbb772dc5c5634d4
+      internalID: 1015119040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_6"
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 3661
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06babe7313794814d85ebc30cfa46cb5
+      internalID: 1805361836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_7"
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 3710
+        width: 398
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22774d63688a0747ab1c4e42fb3ebf6
+      internalID: 525258640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_8"
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 3708
+        width: 368
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43012078c4236e14e961b43ebd24d6a1
+      internalID: -979180923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_11"
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3253
+        width: 436
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbb9f8fafaf7f648a10260c185908eb
+      internalID: 156453933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_12"
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3239
+        width: 425
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6d3c108697efd4f8d633746a2c3fdf
+      internalID: -1314935744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_13"
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 3229
+        width: 402
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fbff6d7dc16c54da4a5242dcbce119
+      internalID: 555195366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_14"
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 3209
+        width: 452
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4239085b306931f4480d7a326b4a3aa9
+      internalID: 198133525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_15"
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 3209
+        width: 452
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d822a5888f54b408ff3057adb65bdf
+      internalID: -763554280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_16"
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 3229
+        width: 402
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efa78ed87c611d4c9f92f11d320ef9a
+      internalID: -282622617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_17"
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 3241
+        width: 425
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1899a8f80d92ca348b8cb461ab67e36e
+      internalID: -1425404617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_18"
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 3253
+        width: 434
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d1928c5c733b04699361a4a64f961e
+      internalID: 581027520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_19"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2815
+        width: 398
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055e9e317c3da854fa9a0b5237f81ccc
+      internalID: -1085170041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_20"
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2795
+        width: 365
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648dba6bdfa2f1e4f9a31f3972b54416
+      internalID: -825558257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_21"
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 2754
+        width: 394
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d93a990e94a024fb090987bc301f35
+      internalID: -363039822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_22"
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 2695
+        width: 434
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97c51c223947714d9f70dcc3545fa65
+      internalID: 51832279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_23"
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 2698
+        width: 434
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ba8c8d70ef54145877e85e0d5cb496
+      internalID: -1331248647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_24"
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 2754
+        width: 394
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e183badc1445194dbb7e1e756f40052
+      internalID: -1835398732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_25"
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 2795
+        width: 367
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34205abcbc59af4384730c0927a5da5
+      internalID: 527082840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_26"
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 2815
+        width: 397
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab70299f45e41648a27ba7c3363f733
+      internalID: -1336596433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_27"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2332
+        width: 418
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da6d63639657f746927dfd8288a20ed
+      internalID: -840066722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_28"
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2259
+        width: 224
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4ec8b977e3ec04f851ba8473c868bb
+      internalID: -1671684297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_29"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 2259
+        width: 224
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205ac2e4a4356f94ebba067e09281dbf
+      internalID: 1338084166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_30"
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 2332
+        width: 418
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cf4bae29104964db136f98c6a73c32
+      internalID: 342968701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_31"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1827
+        width: 421
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d09406cb798ef24abd636562ba391a0
+      internalID: -1515136048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_32"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1837
+        width: 414
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b275a8c289fdb5140ab2f7be9ab4849c
+      internalID: -359212090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_33"
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1811
+        width: 424
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7ce626b73fd294e9fcae2b97a25db8
+      internalID: 1746943370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_34"
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1793
+        width: 412
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c4bd6ffe5177b409bc9f836023f00b
+      internalID: 321466361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_35"
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 1794
+        width: 414
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d561d5da0c5ddc48a88ad503b3b6f2e
+      internalID: 572951090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_36"
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 1811
+        width: 424
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6392f008236db24c8e45f83dd5e040f
+      internalID: -1423467146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_37"
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 1837
+        width: 412
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1ad47139389aa4baa557f2a41edbc2
+      internalID: 427207796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_38"
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 1829
+        width: 423
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33039717626a75243a5e83798aa7684c
+      internalID: 1662122094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_40"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1231
+        width: 363
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a114d36c912bad549ac780993a615ad8
+      internalID: -1950208755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_41"
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1292
+        width: 194
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cebc164053c1d34cb2f375e94e85eb0
+      internalID: -826381131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_42"
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1245
+        width: 363
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273242f50e605274dbbd782ad9c034aa
+      internalID: 609114894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_43"
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 1247
+        width: 361
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d31eb6f3772774cab3fd9f75ccbb0a
+      internalID: -955534031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_44"
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 1292
+        width: 194
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de26cd2e9c12a8a4e8711c3c306da101
+      internalID: 1974238581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_45"
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1231
+        width: 363
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f48591890bd404eba20b9944f43a7e
+      internalID: -827048877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_47"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 579
+        width: 359
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88b2606998d8d240af561145f8642db
+      internalID: 390526079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_50"
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 557
+        width: 412
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1d28a2e4439b8469cf57f923218211
+      internalID: 824389040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_51"
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 557
+        width: 412
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422b920f3e6c93946b1c734df013ae8c
+      internalID: 925168726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_54"
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 579
+        width: 359
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba5e31a9923b724993cda0cc806fce2
+      internalID: 581896559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_55"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 51
+        width: 420
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5d09b6396c3894c957f0b3b7593360
+      internalID: 1633391643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-2_Mesa de trabajo 1_56"
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 54
+        width: 424
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d72eae57dc1ac499593117b48921c0
+      internalID: -2117987120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_0": 567831026
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_1": 1621850019
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_10": 523043198
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_11": 156453933
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_12": -1314935744
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_13": 555195366
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_14": 198133525
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_15": -763554280
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_16": -282622617
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_17": -1425404617
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_18": 581027520
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_19": -1085170041
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_2": 853271349
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_20": -825558257
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_21": -363039822
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_22": 51832279
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_23": -1331248647
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_24": -1835398732
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_25": 527082840
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_26": -1336596433
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_27": -840066722
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_28": -1671684297
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_29": 1338084166
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_3": 811008588
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_30": 342968701
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_31": -1515136048
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_32": -359212090
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_33": 1746943370
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_34": 321466361
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_35": 572951090
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_36": -1423467146
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_37": 427207796
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_38": 1662122094
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_39": -807858154
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_4": 1972676459
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_40": -1950208755
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_41": -826381131
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_42": 609114894
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_43": -955534031
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_44": 1974238581
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_45": -827048877
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_46": -1969024826
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_47": 390526079
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_48": -1663139164
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_49": 1158222416
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_5": 1015119040
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_50": 824389040
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_51": 925168726
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_52": 991366968
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_53": -2081508146
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_54": 581896559
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_55": 1633391643
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_56": -2117987120
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_6": 1805361836
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_7": 525258640
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_8": -979180923
+      "Sin t\xEDtulo-2_Mesa de trabajo 1_9": -1670347906
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
